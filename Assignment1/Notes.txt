@@ -1,0 +1,7 @@
+Step			Command						Note
+1. Save Script	Save the code block above as install_devops_stack.sh.	Use an editor like nano or vi.
+2. Permissions	chmod +x install_devops_stack.sh			Grants the file permission to be executed as a program.
+
+3. Execute	sudo ./install_devops_stack.sh				Runs the script with the necessary root privileges to perform 										installations and system changes.
+
+.
